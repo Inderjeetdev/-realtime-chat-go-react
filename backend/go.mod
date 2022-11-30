@@ -1,4 +1,4 @@
-module github.com/TutorialEdge/realtime-chat-go-react
+module github.com/Inderjeetdev/-realtime-chat-go-react
 
 go 1.19
 
